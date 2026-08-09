@@ -1,0 +1,7 @@
+Coffee: 3
+Sandwich: 1
+Cookie: 2
+Subtotal: $20.50
+Tax: $1.82
+Discount: $0.00
+Final total: $22.32
