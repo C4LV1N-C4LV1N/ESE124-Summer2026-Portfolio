@@ -13,7 +13,7 @@ The Snack Register program reads the quantities of coffee, sandwiches, and cooki
 
 ## Compile and Run
 
-gcc -std=c11 -Wall -Wextra 02-midcourse-program/receipt_writer.c -o receipt_writer
+gcc -std=c11 -Wall -Wextra receipt_writer.c -o receipt_writer
 ./receipt_writer
 
 ## Example

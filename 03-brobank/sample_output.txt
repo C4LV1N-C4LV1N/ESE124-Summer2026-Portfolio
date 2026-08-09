@@ -1,0 +1,68 @@
+Loaded balances from balance.txt.
+Enter 3-digit PIN: PIN accepted. Welcome to BroBank!
+Current account balances:
+  Account 0: $100.00
+  Account 1: $50.00
+  Account 2: $25.00
+  Account 3: $0.00
+
+BroBank Menu:
+1) Deposit
+2) Withdraw
+3) Transfer
+4) Interest calculator
+5) Undo last transaction
+6) Quit
+Enter choice: Enter account number (0-3): Enter deposit amount: Deposit successful.
+Current account balances:
+  Account 0: $120.00
+  Account 1: $50.00
+  Account 2: $25.00
+  Account 3: $0.00
+
+BroBank Menu:
+1) Deposit
+2) Withdraw
+3) Transfer
+4) Interest calculator
+5) Undo last transaction
+6) Quit
+Enter choice: Enter source account (0-3): Enter destination account (0-3): Enter transfer amount: Transfer successful.
+Current account balances:
+  Account 0: $90.00
+  Account 1: $50.00
+  Account 2: $55.00
+  Account 3: $0.00
+
+BroBank Menu:
+1) Deposit
+2) Withdraw
+3) Transfer
+4) Interest calculator
+5) Undo last transaction
+6) Quit
+Enter choice: Enter account number (0-3): Enter annual interest rate (percent): Enter months to calculate: Estimated interest for account 2: $2.75
+
+BroBank Menu:
+1) Deposit
+2) Withdraw
+3) Transfer
+4) Interest calculator
+5) Undo last transaction
+6) Quit
+Enter choice: Undo successful.
+Current account balances:
+  Account 0: $120.00
+  Account 1: $50.00
+  Account 2: $25.00
+  Account 3: $0.00
+
+BroBank Menu:
+1) Deposit
+2) Withdraw
+3) Transfer
+4) Interest calculator
+5) Undo last transaction
+6) Quit
+Enter choice: Balances saved to balance.txt.
+Thank you for using BroBank. Goodbye!

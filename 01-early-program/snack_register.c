@@ -3,6 +3,7 @@
 int main(void)
 {
     int chips, juice, cookies;
+    printf("Enter number of chips ($1.25), juice (1.50), and cookies ($0.75)\n");
     scanf("%d %d %d", &chips, &juice, &cookies);
     
     int cents = (chips * 125) + (juice * 150) + (cookies * 75);

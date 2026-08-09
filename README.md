@@ -41,7 +41,7 @@ BroBank is a modular C banking application that processes deposits, withdrawals,
 
 ## What I Learned
 
-Through these projects, I developed my understanding of C programming starting from basic input, variables, and calculations to more advanced modular programs and data structures. BroBank challenged me to understand how queues, stacks, and graphs can work together in one application while also ensuring they pass certain tests. One challenge I overcame was managing transaction validation and correctly updating account balances while also supporting undo operations. I also learned how BFS and DFS can be used to analyze relationships between accounts. The next skill I want to learn is multithreading.
+Through these projects, I developed my understanding of C programming starting from basic input, variables, and calculations to more advanced modular programs and data structures. BroBank challenged me to understand how queues, stacks, and graphs can work together in one application while also ensuring they pass certain tests. One challenge I overcame was managing transaction validation and correctly updating account balances while also supporting undo operations. I also learned how BFS and DFS can be used to analyze relationships between accounts. The next skill I want to learn is using C coding in embedded systems design to include hardware for future projects.
 
 ## Repository Guide
 
